@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ctrl + Coffee + Code = Most of my personality. <br>Welcome to the place where experiments become projects.<br>I enjoy turning ideas into projects that people can actually use. Most of my time goes into building, learning, breaking things, fixing them, and repeating the process. Every repository here is a small part of my journey, showing not just what I've built, but what I've learned along the way.<br>
+<strong>Ctrl + Coffee + Code = Most of my personality</strong>. <br>Welcome to the place where experiments become projects.<br>I enjoy turning ideas into projects that people can actually use. Most of my time goes into building, learning, breaking things, fixing them, and repeating the process. Every repository here is a small part of my journey, showing not just what I've built, but what I've learned along the way.<br>
 
 
 ## 🌐 Socials:
